@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">BitsAndPizzas</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="top_fragment">Top Fragment</string>
+
+    <string name="welcome_text">We offer a range of freshly baked pizza and pasta
+dishes. Why not try some?</string>
+
+    <string-array name="pizzas">
+        <item>Diavolo</item>
+        <item>Funghi</item>
+        <!--Add the array of pizzas to strings.xml.-->
+    </string-array>
+
+    <string-array name="pasta">
+        <item>Spaghetti Bolognese</item>
+        <item>Lasagne</item>
+        <!--Add the array of pasta to strings.xml.-->
+    </string-array>
+
+    <string-array name="stores">
+        <!--Add the array of stores to strings.xml.-->
+        <item>Cambridge</item>
+        <item>Sebastopol</item>
+    </string-array>
+
+    <string-array name="titles">
+        <item>Home</item>
+        <item>Pizzas</item>
+        <item>Pastas</item>
+        <item>Stores</item>
+    </string-array>
+
+    <string name="open_drawer">Open drawer</string>
+    <string name="close_drawer">Close drawer</string>
+</resources>
